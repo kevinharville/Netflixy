@@ -1,0 +1,17 @@
+.movieFrame {
+    display: flex;
+    flex-direction:column;
+    min-height: 233px;
+    overflow: hidden;
+    margin:1em;
+}
+img {
+    width:  166px;
+    height: 233px;
+    text-align: center;
+    vertical-align: middle;
+}
+button {
+    width:166px;
+    visibility: hidden;
+}

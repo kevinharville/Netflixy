@@ -1,0 +1,9 @@
+.movie {
+   display:inline-table;
+    text-align:left;
+    height:270px;
+}
+li {
+    display:inline;
+    list-style-type:circle;
+}
